@@ -1,0 +1,7 @@
+version: "3"
+services:
+  app:
+    container_name: app
+    image: registry.gitlab.com/softdev-practice/jenkins1001
+    ports:
+      - "4000:5000"
