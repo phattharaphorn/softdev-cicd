@@ -2,6 +2,6 @@
 
 # Software Development Process in Practice - Jenkins Assignment
 
-software development process in practice (01076035), Computer Engineering 60 at KMITL.
+Software Development Process in Practice (01076035), Computer Engineering 60 at KMITL.
 
-> This repository is CICD (Jenkins) assignment.
+> > This repository is a CICD (Jenkins) assignment in the Software Development Process in Practice.
